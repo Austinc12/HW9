@@ -1,4 +1,1 @@
-Hw #9 Create a ReadMe generator!
-Why take anymore time out of your day cerating a readme? Now you can just generate your own! Save yourself some time!
-This application will allow you to easily generate your Readme for your upcoming project!
-Video will be up soon trying to use OBS to upload to GIT is dang near impossible,
+Have you ever struggled to think of a good quality ReadMe for your repo? Well look no further with this easy to use application you can now easily have a read me generated for you! Just answer a few simple questions about your creation and BAM! You have your own unique ReadMe. Not all of us are as creative so this should help you out! Dont forget you need a good ReadMe for your fabulous code.
