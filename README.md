@@ -1,1 +1,40 @@
-Have you ever struggled to think of a good quality ReadMe for your repo? Well look no further with this easy to use application you can now easily have a read me generated for you! Just answer a few simple questions about your creation and BAM! You have your own unique ReadMe. Not all of us are as creative so this should help you out! Dont forget you need a good ReadMe for your fabulous code.
+
+# **testing 123**
+
+none
+
+## Description 
+
+just a simple test to see if my code works :}
+
+
+
+## Installation
+
+        simply answer all the questions to get your very own read me!
+
+## Usage
+
+uses node and jscript 
+
+## Licence
+
+MIT
+
+## Contributors
+
+Me
+
+## Test
+
+This is my current test
+
+
+## GitHub
+Austinc12
+
+![Image of me](https://avatars.githubusercontent.com/u/72824963?v=4)
+- null
+- [GitHub Profile](https://github.com/Austinc12)
+- <null>
+

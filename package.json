@@ -9,6 +9,9 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "inquirer": "^6.3.1"
+    "axios": "^0.21.1",
+    "inquirer": "^6.3.1",
+    "jshint": "^2.12.0",
+    "node.js": "0.0.1-security"
   }
 }
