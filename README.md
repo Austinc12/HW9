@@ -1,7 +1,7 @@
+ReadMe Generator! I know it sucks creating your own readMe but hey I solved that for you just simply insert what your project is about and it will create your very own read me!
 
-# **testing 123**
 
-none
+
 
 ## Description 
 
@@ -32,9 +32,6 @@ This is my current test
 
 ## GitHub
 Austinc12
-
-![Image of me](https://avatars.githubusercontent.com/u/72824963?v=4)
-- null
 - [GitHub Profile](https://github.com/Austinc12)
-- <null>
+
 
